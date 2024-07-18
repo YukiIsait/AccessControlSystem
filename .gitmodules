@@ -1,0 +1,12 @@
+[submodule "ManagementPlatform"]
+	path = ManagementPlatform
+	url = https://github.com/YukiIsait/AccessControlSystem-ManagementPlatform.git
+[submodule "AndroidClient"]
+	path = AndroidClient
+	url = https://github.com/YukiIsait/AccessControlSystem-AndroidClient.git
+[submodule "Server"]
+	path = Server
+	url = https://github.com/YukiIsait/AccessControlSystem-Server.git
+[submodule "Hardware"]
+	path = Hardware
+	url = https://github.com/YukiIsait/AccessControlSystem-Hardware.git
